@@ -1,0 +1,20 @@
+{
+    "perguntas": [
+        {
+            "texto": "pergunta 1",
+            "resposta": "resposta 1"
+        },
+        {
+            "texto": "pergunta 2",
+            "resposta": "resposta 2"
+        },
+        {
+            "texto": "pergunta 3",
+            "resposta": "resposta 3"
+        },
+        {
+            "texto": "pergunta 4",
+            "resposta": "resposta 4"
+        }
+    ]
+}
